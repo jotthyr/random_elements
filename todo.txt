@@ -1,0 +1,12 @@
+Losowe ustawianie elementów w tablicy
+
+Celem zadania jest stworzenie kompletnego działającego kodu realizującego następujące założenia.
+
+1. Utworzyć klasę (kontener) do przechowywania listy obiektów i metodę służącą do losowego mieszania tablicy.
+2. Umieścić w kontenerze początkowo 6 obiektów które mają w sobie pole 'title' z różnymi tytułami.
+3. Napisać komponent w Vue wyświetlający zawartość kontenera w rzędach po 3 elementy wykorzystujący subkomponenty.
+4. Dodać w komponencie głównym przycisk wykonujący mieszanie elementów w kontenerze.
+5. Dodać w komponencie głównym pole typu 'input' służące do edycji pola 'title' w zaznaczonym aktualnie elemencie
+(zaznaczanie powinno odbywać się przez kliknięcie).
+
+6. Załączyć plik 'readme' z instrukcją uruchomienia systemu
